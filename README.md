@@ -2,6 +2,7 @@
 Individual Assignment on 1-page website for the RM1 campaign program. 
 
 JavaScript interaction for the RM 1 1-Page Website
+
 contain the function 'validationForm(event)' to handle the form validation.
 
 1. Empty Field Check: Make sure all fields in the form are filled. Prevent the form from being submitted if any of the required fields are empty or filled only with whitespace using (trim() method.
