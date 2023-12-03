@@ -1,4 +1,5 @@
 # Web-Tech-Assignment
+MUHAMMAD LUQMAN BISTHAMY BIN SHAM ZULANEY (2216289) (INFO 2302 Section 01)
 Individual Assignment on 1-page website for the RM1 campaign program. 
 
 JavaScript interaction for the RM 1 1-Page Website
