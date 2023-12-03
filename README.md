@@ -1,9 +1,9 @@
 # Web-Tech-Assignment
-MUHAMMAD LUQMAN BISTHAMY BIN SHAM ZULANEY (2216289) (INFO 2302 Section 01)
+- MUHAMMAD LUQMAN BISTHAMY BIN SHAM ZULANEY (2216289) (INFO 2302 Section 01)
 
-Individual Assignment on 1-page website for the RM1 campaign program. 
+- Individual Assignment on 1-page website for the RM1 campaign program. 
 
-JavaScript interaction for the RM 1 1-Page Website
+- JavaScript interaction for the RM 1 1-Page Website
 
 1. Contain the function 'validationForm(event)' to handle the form validation.
 2. Empty Field Check: Make sure all fields in the form are filled. Prevent the form from being submitted if any of the required fields are empty or filled only with whitespace using (trim() method).
