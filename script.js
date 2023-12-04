@@ -7,9 +7,9 @@ function validationForm(event) {
     const contactNo = document.getElementById('contactNo').value;
     const email = document.getElementById('email').value;
     const Amount = document.getElementById('Amount').value;
-
     const start = new Date(document.getElementById('start').value);
     const end = new Date(document.getElementById('end').value);
+    const options = document.getElementById('options').value;
     const today = new Date();
 
     if (
@@ -20,7 +20,8 @@ function validationForm(event) {
         email.trim() === '' ||
         Amount.trim() === '' ||
         !document.getElementById('start').value ||
-        !document.getElementById('end').value
+        !document.getElementById('end').value ||
+        options.trim() === ''
     ) {
         alert('Please fill in this form');
         return false;
