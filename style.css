@@ -131,7 +131,8 @@ body {
 .form input[type="number"],
 .form input[type="email"],
 .form input[type="month"],
-.form input[type="submit"] {
+.form input[type="submit"],
+.form select {
     padding: 10px;
     border-radius: 5px;
     border: 1px solid #ccc;
