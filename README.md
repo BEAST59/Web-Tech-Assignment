@@ -20,4 +20,3 @@ References to create RM 1 Website
 3. JS : https://stackoverflow.com/questions/46155/how-can-i-validate-an-email-address-in-javascript
 4. JS : https://www.geeksforgeeks.org/number-validation-in-javascript/
 5. JS : https://stackoverflow.com/questions/6177975/how-to-validate-date-with-format-mm-dd-yyyy-in-javascript
-6. CSS : https://youtu.be/phWxA89Dy94?si=QffblmqNP27wVTVY
